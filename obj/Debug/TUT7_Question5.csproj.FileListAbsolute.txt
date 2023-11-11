@@ -1,0 +1,16 @@
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT8\TUT7_Question5\bin\Debug\TUT7_Question5.exe.config
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT8\TUT7_Question5\bin\Debug\TUT7_Question5.exe
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT8\TUT7_Question5\bin\Debug\TUT7_Question5.pdb
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT8\TUT7_Question5\obj\Debug\TUT7_Question5.csproj.AssemblyReference.cache
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT8\TUT7_Question5\obj\Debug\TUT7_Question5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT8\TUT7_Question5\obj\Debug\TUT7_Question5.csproj.CoreCompileInputs.cache
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT8\TUT7_Question5\obj\Debug\TUT7_Question5.exe
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT8\TUT7_Question5\obj\Debug\TUT7_Question5.pdb
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT7\TUT7_Question5\bin\Debug\TUT7_Question5.exe.config
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT7\TUT7_Question5\bin\Debug\TUT7_Question5.exe
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT7\TUT7_Question5\bin\Debug\TUT7_Question5.pdb
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT7\TUT7_Question5\obj\Debug\TUT7_Question5.csproj.AssemblyReference.cache
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT7\TUT7_Question5\obj\Debug\TUT7_Question5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT7\TUT7_Question5\obj\Debug\TUT7_Question5.csproj.CoreCompileInputs.cache
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT7\TUT7_Question5\obj\Debug\TUT7_Question5.exe
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT7\TUT7_Question5\obj\Debug\TUT7_Question5.pdb
