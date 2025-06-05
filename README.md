@@ -9,7 +9,7 @@
 > **The ultimate sports analytics toolkit** - Simulate, analyze, and visualize player performance with dynamic data structures!
 
 ### Screenshot
-![Game Screenshot](./public/mathgame1.png)
+![Game Screenshot](csharpplayerstat.png)
 
 ## 🏆 Key Features
 
